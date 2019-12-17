@@ -1,7 +1,8 @@
-_:b58 <http://schema.org/version> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
-_:b59 <http://schema.org/version> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
-_:b60 <http://schema.org/version> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
-_:b61 <http://schema.org/version> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b10 <http://schema.org/version> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b11 <http://schema.org/version> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b12 <http://schema.org/version> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b14 <http://schema.org/version> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b9 <http://schema.org/version> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <http://example.com/letsnest/> <http://schema.org/hasPart> <http://example.com/letsnest/container/> .
 <http://example.com/letsnest/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
 <http://example.com/letsnest/> <http://www.w3.org/2000/01/rdf-schema#comment> "This container is a group at the root" .
@@ -9,6 +10,7 @@ _:b61 <http://schema.org/version> "1"^^<http://www.w3.org/2001/XMLSchema#integer
 <http://example.com/letsnest/container/> <http://schema.org/hasPart> <http://example.com/letsnest/container/container/> .
 <http://example.com/letsnest/container/> <http://schema.org/hasPart> <http://example.com/schema/Broek> .
 <http://example.com/letsnest/container/> <http://schema.org/hasPart> <http://example.com/schema/Kleding> .
+<http://example.com/letsnest/container/> <http://schema.org/hasPart> <http://example.com/schema/Tshirt> .
 <http://example.com/letsnest/container/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
 <http://example.com/letsnest/container/> <http://www.w3.org/2000/01/rdf-schema#comment> "This container is inside the 'letsnest' group" .
 <http://example.com/letsnest/container/> <http://www.w3.org/2000/01/rdf-schema#label> "Container" .
