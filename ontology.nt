@@ -6,3 +6,6 @@
 <http://example.com/schema/Accelerometer> <http://www.w3.org/2000/01/rdf-schema#comment> "An update on a logistics object of accelerometer." .
 <http://example.com/schema/accelerometer> <http://www.w3.org/2000/01/rdf-schema#label> "Accelerometer" .
 <http://example.com/schema/Accelerometer> <http://www.w3.org/2000/01/rdf-schema#label> "Accelerometer" .
+<http://example.com/schema/Broek> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Class> .
+<http://example.com/schema/Broek> <http://www.w3.org/2000/01/rdf-schema#comment> "broek" .
+<http://example.com/schema/Broek> <http://www.w3.org/2000/01/rdf-schema#label> "Broek" .
