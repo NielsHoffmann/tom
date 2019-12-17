@@ -1,0 +1,8 @@
+<http://example.com/schema/Accelerometer> <http://purl.org/dc/terms/modified> "2018-02-23"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://example.com/schema/accelerometer> <http://schema.org/domainIncludes> <http://example.com/schema/TrackUpdate> .
+<http://example.com/schema/accelerometer> <http://schema.org/rangeIncludes> <http://example.com/schema/Accelerometer> .
+<http://example.com/schema/accelerometer> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
+<http://example.com/schema/Accelerometer> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Class> .
+<http://example.com/schema/Accelerometer> <http://www.w3.org/2000/01/rdf-schema#comment> "An update on a logistics object of accelerometer." .
+<http://example.com/schema/accelerometer> <http://www.w3.org/2000/01/rdf-schema#label> "Accelerometer" .
+<http://example.com/schema/Accelerometer> <http://www.w3.org/2000/01/rdf-schema#label> "Accelerometer" .
