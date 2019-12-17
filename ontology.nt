@@ -1,3 +1,7 @@
+<http://example.com/schema/Auto> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Class> .
+<http://example.com/schema/Auto> <http://www.w3.org/2000/01/rdf-schema#comment> "auto" .
+<http://example.com/schema/Auto> <http://www.w3.org/2000/01/rdf-schema#label> "Auto" .
+<http://example.com/schema/Auto> <http://www.w3.org/2002/07/owl#equivalentClass> <http://example.com/schema/Kleding> .
 <http://example.com/schema/Broek> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Class> .
 <http://example.com/schema/Broek> <http://www.w3.org/2000/01/rdf-schema#comment> "broek" .
 <http://example.com/schema/Broek> <http://www.w3.org/2000/01/rdf-schema#label> "Broek" .
