@@ -1,1 +1,9 @@
 _:b2 <http://schema.org/version> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://example.com/letsnest/> <http://schema.org/hasPart> <http://example.com/letsnest/container/> .
+<http://example.com/letsnest/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://example.com/letsnest/> <http://www.w3.org/2000/01/rdf-schema#comment> "This container is a group at the root" .
+<http://example.com/letsnest/> <http://www.w3.org/2000/01/rdf-schema#label> "Let's Nest" .
+<http://example.com/letsnest/container/> <http://schema.org/hasPart> <http://example.com/letsnest/container/container/> .
+<http://example.com/letsnest/container/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://example.com/letsnest/container/> <http://www.w3.org/2000/01/rdf-schema#comment> "This container is inside the 'letsnest' group" .
+<http://example.com/letsnest/container/> <http://www.w3.org/2000/01/rdf-schema#label> "Container" .
