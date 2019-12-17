@@ -1,9 +1,10 @@
-_:b1 <http://schema.org/version> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
-_:b2 <http://schema.org/version> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
-_:b3 <http://schema.org/version> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
-_:b4 <http://schema.org/version> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
-_:b5 <http://schema.org/version> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
-_:b7 <http://schema.org/version> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b37 <http://schema.org/version> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b38 <http://schema.org/version> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b39 <http://schema.org/version> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b40 <http://schema.org/version> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b41 <http://schema.org/version> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b42 <http://schema.org/version> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b44 <http://schema.org/version> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <http://example.com/modellen/> <http://schema.org/hasPart> <http://example.com/modellen/kleding/> .
 <http://example.com/modellen/> <http://schema.org/hasPart> <http://example.com/modellen/voertuigen/> .
 <http://example.com/modellen/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
@@ -16,6 +17,7 @@ _:b7 <http://schema.org/version> "1"^^<http://www.w3.org/2001/XMLSchema#integer>
 <http://example.com/modellen/kleding/> <http://www.w3.org/2000/01/rdf-schema#comment> "Dit is een kleding ontologie" .
 <http://example.com/modellen/kleding/> <http://www.w3.org/2000/01/rdf-schema#label> "kleding" .
 <http://example.com/modellen/voertuigen/> <http://schema.org/hasPart> <http://example.com/schema/Auto> .
+<http://example.com/modellen/voertuigen/> <http://schema.org/hasPart> <http://example.com/schema/Fiets> .
 <http://example.com/modellen/voertuigen/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
 <http://example.com/modellen/voertuigen/> <http://www.w3.org/2000/01/rdf-schema#comment> "Dit is een voertuigen ontologie" .
 <http://example.com/modellen/voertuigen/> <http://www.w3.org/2000/01/rdf-schema#label> "voertuigen" .
